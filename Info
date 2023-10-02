@@ -1,0 +1,3 @@
+This repo contains the C code used to control a 3-rotational-joint robot arm.       
+The code files are named from "Lab1_wbwb" to "Lab4_wbwb", as well as a "Labfinal_wbwb2" code for the final project.      
+The code files are all under the directory "workspace/me446_labswbwb".
